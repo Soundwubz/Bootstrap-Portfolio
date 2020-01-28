@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Gyparody';
+    src: url('../fonts/gyparody\ hv.ttf');
+}
+
 #profile-pic {
     /* width: 200px;
     height: 200px; */
@@ -63,6 +68,12 @@ footer p {
 .swRPG {
     background: url('../images/c3po.jpg');
     background-size: cover;
+}
+
+.triviaGame {
+    background: #0533cc;
+    font-family: 'Gyparody';
+    color: white;
 }
 
 .erik {
