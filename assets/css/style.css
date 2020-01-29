@@ -76,6 +76,12 @@ footer p {
     color: white;
 }
 
+.giphySearch {
+    background: url('https://pmcvariety.files.wordpress.com/2016/10/giphy-logo-e1477932075273.png?w=867');
+    background-size: cover;
+    background-position: center;
+}
+
 .erik {
     background: url('../images/erik-jan-leusink-IbPxGLgJiMI-unsplash.jpg');
     background-size: cover;
